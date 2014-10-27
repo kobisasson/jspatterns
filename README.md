@@ -1,4 +1,4 @@
-jspatterns
+jspatterns 
 ==========
 
-[js patterns](http://google.com)
+[js patterns](http://sap.com)
