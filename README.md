@@ -1,4 +1,4 @@
 jspatterns 
 ==========
-changed. changed in bugFix 2
+changed. changed in bugFix 3
 [js patterns](http://sap.com)
